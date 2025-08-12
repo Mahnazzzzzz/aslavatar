@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aslavatar-dev-cf0be-authRole",
+      "UnauthRoleArn": "arn:aws:iam::052958000520:role/amplify-aslavatar-dev-cf0be-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::052958000520:role/amplify-aslavatar-dev-cf0be-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aslavatar-dev-cf0be-deployment",
+      "UnauthRoleName": "amplify-aslavatar-dev-cf0be-unauthRole",
+      "StackName": "amplify-aslavatar-dev-cf0be",
+      "StackId": "arn:aws:cloudformation:us-east-1:052958000520:stack/amplify-aslavatar-dev-cf0be/9b7d4930-779f-11f0-b16a-120dbfe767b7",
+      "AmplifyAppId": "d1n913pxe8d1b2"
+    },
+    "categories": {
+      "auth": {
+        "aslavatar0a03d830": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
